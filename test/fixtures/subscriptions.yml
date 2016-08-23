@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  frequency: MyString
+  notification_time: MyString
+  notification_time_before_launch: MyString
+  subscriber_id: MyString
+  subscription_id: MyString
+
+two:
+  frequency: MyString
+  notification_time: MyString
+  notification_time_before_launch: MyString
+  subscriber_id: MyString
+  subscription_id: MyString
